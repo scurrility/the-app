@@ -5,7 +5,7 @@ import geb.spock.GebReportingSpec
 import org.openqa.selenium.remote.DesiredCapabilities
 import org.openqa.selenium.remote.RemoteWebDriver
 import io.github.zutherb.appstash.common.util.Config
-
+/* My own */
 class DiscountSpec extends GebReportingSpec {
     def "Check discount"() {
         when:
